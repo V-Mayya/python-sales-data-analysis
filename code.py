@@ -51,7 +51,7 @@ for i1, i2 in zip(sales, sales[1:]):
     percentages = round(percentages, 2)
     percentage.append(percentages)
 
-print('Percentage change in sales over the months (second way): {}'.format(percentage))
+print('Percentage change in sales over the months: {}'.format(percentage))
 
 #plot
 #line graph (months and profit)
