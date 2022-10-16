@@ -43,6 +43,16 @@ print('Max. sales were {} during {}.'.format(max_sales,max_month))
 average_sales = total_sales/len(sales)
 print('Average sales during the months were {}.'.format(int(average_sales)))
 
+#percentage change in sales over the months
+percentage = []
+
+for i1, i2 in zip(sales, sales[1:]):
+    percentages = ((i2 - i1) / i1)*100
+    percentages = round(percentages, 2)
+    percentage.append(percentages)
+
+print('Percentage change in sales over the months (second way): {}'.format(percentage))
+
 #plot
 #line graph (months and profit)
 plt.plot(months, profit, color='green', linestyle='solid', marker='o', markerfacecolor='blue', markersize=5)
