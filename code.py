@@ -115,4 +115,27 @@ plt.grid(True)
 # Show the plot
 plt.show()
 
+#4. plot percentage
+set1 = [0]
+set2 = [0]
+
+for n in range(11):
+    if percentage[n]<0:
+        set1.append(percentage[n])
+        set2.append(0)
+    elif percentage[n]>=0:
+        set1.append(0)
+        set2.append(percentage[n])
+
+plt.bar(months, set1, label = 'decreased', color = 'red')
+plt.bar(months, set2, label = 'increased', color = 'darkblue')
+plt.xlabel('months', fontdict = font1)
+plt.ylabel('Δ sales', fontdict = font1)
+plt.title('Percentage change in sales over the months', fontdict = font2)
+plt.yticks([-50,0,50,100,150, 200,250], ['-50%','0%','+50%','+100%', '+150%', '+200%','+250%'])
+plt.legend(loc='upper right')
+
+plt.grid(axis = 'y')
+plt.show()
+
 
