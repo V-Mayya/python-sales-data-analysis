@@ -9,6 +9,7 @@ Find the code [here](https://github.com/V-Mayya/python-sales-data-analysis/blob/
 (i) [Monthly profit in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20profits.png)<br/>
 (ii) [Monthly sales and expenditures in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales%20and%20expenditures.png)<br/>
 (iii) [Monthly sales in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales.png)<br/>
+(iv) [Percentage change in sales over the months](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/Percentage_change_in_sales.png)
 
 Some implications that can be drawn from our findings and data analysis include further questions such as:
 -  **Why was expenditure particularly high during the months of February, March and December?** <br/>
