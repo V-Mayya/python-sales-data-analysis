@@ -53,6 +53,7 @@ for i1, i2 in zip(sales, sales[1:]):
 
 print('Percentage change in sales over the months: {}'.format(percentage))
 
+#---Basic Data Visualisations---
 #plot
 #line graph (months and profit)
 plt.plot(months, profit, color='green', linestyle='solid', marker='o', markerfacecolor='blue', markersize=5)
@@ -68,4 +69,50 @@ all_labels = months
 plt.pie(x, labels = all_labels, wedgeprops = {'linewidth' : 2, 'edgecolor' : 'white'})
 plt.title("Expenditures over the months in 2018")
 plt.show()
+
+#---Advanced Data Visualisations---
+#plot
+font1 = {'family':'serif','color':'blue','size':15}
+font2 = {'family':'serif','color':'darkred','size':20} 
+
+#1. plot profit (bar graph) 
+plt.bar(months, profit, label = 'profit', color = 'green')
+plt.xlabel('months', fontdict = font1)
+plt.ylabel('profit', fontdict = font1)
+plt.title('Monthly profit in 2018', fontdict = font2)
+plt.grid(axis = 'y')
+plt.ylim(min(profit)-1000,max(profit)+1000)
+plt.show()
+
+#2. plot sales and expenditure (line graphs)
+plt.plot(months, sales, label = "sales", marker = 'o', ms = 2, mec = 'green', mfc = 'green')
+plt.plot(months, expenditures, label = "expenditures", marker = 'o', ms = 2, mec = 'red', mfc = 'red')
+plt.xlabel('Months', fontdict = font1)
+plt.ylabel('Sales/Expenditures', fontdict = font1)
+plt.title('Monthly sales and expenditures in 2018', fontdict = font2)
+plt.legend(loc='upper right')
+plt.text(max_month,max_sales,'Max. sales were {} during {}.'.format(max_sales,max_month),horizontalalignment='center')
+plt.ylim((min_sales-2000,max_sales+3000))
+plt.show()
+
+#3. scatter 
+col = ['blue','orange','green','red','purple','brown','pink','black','olive','cyan','darkblue','gray']
+
+plt.scatter(x = profit, y = expenditures, s = sales, c = col, alpha = 0.5)
+
+plt.xlabel('profit', fontdict = font1)
+plt.ylabel('expenditures', fontdict = font1)
+plt.title('2018 sales per month', fontdict = font2)
+
+plt.xlim(-3000,8000)
+plt.ylim(0,6000)
+
+for i, txt in enumerate(months):
+    plt.annotate(txt, (profit[i], expenditures[i]),horizontalalignment='center')
+
+plt.grid(True)
+
+# Show the plot
+plt.show()
+
 
