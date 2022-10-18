@@ -6,9 +6,9 @@ Collaborative group project with another member involving spreadsheet data analy
 Created data visualisations using matplotlib and numpy and extracted csv data. 
 
 Find the code [here](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/code.py). Some data visualisations produced were:
-(i) [Monthly profit in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20profits.png)
-(ii) [Monthly sales and expenditures in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales%20and%20expenditures.png)
-(iii)[Monthly sales in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales.png) 
+(i) [Monthly profit in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20profits.png)<br/>
+(ii) [Monthly sales and expenditures in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales%20and%20expenditures.png)<br/>
+(iii) [Monthly sales in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales.png)<br/>
 
 Some implications that can be drawn from our findings and data analysis include further questions such as:
 -  **Why was expenditure particularly high during the months of February, March and December?**
