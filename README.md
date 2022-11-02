@@ -13,8 +13,7 @@
 (iii) [Monthly sales in 2018](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/monthly%20sales.png)<br/>
 (iv) [Percentage change in sales over the months](https://github.com/V-Mayya/python-sales-data-analysis/blob/main/Percentage_change_in_sales.png)
 
-Some implications that can be drawn from our findings and data analysis include further questions such as:
-<br/> 
+Some implications that can be drawn from our findings and data analysis include further questions such as: <br/> 
 ‣  **Why was expenditure particularly high during the months of February, March and December?** <br/>
 Based on the type of services the firm provides, further questions that could arise are: How could expenses be controlled during these periods to increase operational efficiency? What are the components of the expenditure (was it primarily due to increased borrowing costs or was it used to invest and accumulate further capital)?
 
