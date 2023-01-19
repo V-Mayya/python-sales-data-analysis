@@ -17,19 +17,13 @@
 Some implications that can be drawn from our findings and data analysis include further questions such as: <br/> 
 
 <details>
-<summary>**Why was expenditure particularly high during the months of February, March and December?**</summary>
+<summary><b>Why was expenditure particularly high during the months of February, March and December?</b></summary>
 <br>
 Based on the type of services the firm provides, further questions that could arise are: How could expenses be controlled during these periods to increase operational efficiency? What are the components of the expenditure (was it primarily due to increased borrowing costs or was it used to invest and accumulate further capital)?
 </details>
 
 <details>
-<summary>**Is the change in profit in 2018 consistent over all years?**</summary>
-<br>
-If not, what could be the reasons behind the fluctuations in 2018? 
-</details>
-
-<details>
-<summary>**Is the change in profit in 2018 consistent over all years?**</summary>
+  <summary><b>Is the change in profit in 2018 consistent over all years?</b></summary>
 <br>
 If not, what could be the reasons behind the fluctuations in 2018? 
 </details>
