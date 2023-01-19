@@ -2,7 +2,7 @@
 **Spreadsheet data analysis of fake sales data using Python - CFG** 
 
 --- 
-<img src="MarkusWinklerUnsplash.png" width="435" height="350" />
+<img src="MarkusWinklerUnsplash.png" width="500" height="270" />
 
 ‣ Collaborative group project with another member involving spreadsheet data analysis of fake data provided by CFG and using Replit to work together on our code. 
 
