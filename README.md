@@ -31,7 +31,7 @@ If not, what could be the reasons behind the fluctuations in 2018?
 <details open>
   <summary><b>What are some ways through which the firm could increase sales during months that had low demand?</b></summary>
 <br>
-And possibly measure the impacts of the methods. 
+And possibly measure the impact of the methods. 
 </details>
 
 and many more.
