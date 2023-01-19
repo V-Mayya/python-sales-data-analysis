@@ -28,13 +28,11 @@ Based on the type of services the firm provides, further questions that could ar
 If not, what could be the reasons behind the fluctuations in 2018? 
 </details>
 
-‣  **Why was expenditure particularly high during the months of February, March and December?** <br/>
-Based on the type of services the firm provides, further questions that could arise are: How could expenses be controlled during these periods to increase operational efficiency? What are the components of the expenditure (was it primarily due to increased borrowing costs or was it used to invest and accumulate further capital)?
-
-‣ **Is the change in profit in 2018 consistent over all years?** <br/>
-If not, what could be the reasons behind the fluctuations in 2018? 
-
-‣ **What are some ways through which the firm could increase sales during months that had low demand?**
+<details>
+  <summary><b>What are some ways through which the firm could increase sales during months that had low demand?</b></summary>
+<br>
+And possibly measure the impacts of the methods. 
+</details>
 
 and many more.
 
